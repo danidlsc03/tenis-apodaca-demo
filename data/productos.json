@@ -1,0 +1,29 @@
+[{
+        "id": 1,
+        "nombre": "Jordan 1 Retro High Mocha",
+        "precio": 1400,
+        "imagen": "assets/img/j1-mocha.jpg",
+        "categoria": "Jordan"
+    },
+    {
+        "id": 2,
+        "nombre": "Bad Bunny x Adidas Forum Blue",
+        "precio": 1250,
+        "imagen": "assets/img/bad-bunny.png",
+        "categoria": "Adidas"
+    },
+    {
+        "id": 3,
+        "nombre": "Nike Dunk Low Panda",
+        "precio": 1100,
+        "imagen": "assets/img/dunk-panda.png",
+        "categoria": "Nike"
+    },
+    {
+        "id": 4,
+        "nombre": "Yeezy Slide Pure",
+        "precio": 850,
+        "imagen": "assets/img/yeezy-slide.png",
+        "categoria": "Yeezy"
+    }
+]
